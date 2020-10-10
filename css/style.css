@@ -1,0 +1,22 @@
+html,
+body {
+	height: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: #40424a;
+	margin: 0;
+	font-weight: 600;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+p {
+	font-size: 18px;
+	color: #808181;
+	line-height: 1.8;
+}
+
+img {
+	max-width: 60%;
+}
